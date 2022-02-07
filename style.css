@@ -51,6 +51,8 @@ font-size: 37px;
     flex-flow: column nowrap;
     width: fit-content;
     height: fit-content;
+    margin-left: 18px;
+    margin-right: 53px;
 }
 
 h3 {
