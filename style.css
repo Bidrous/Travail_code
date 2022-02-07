@@ -50,7 +50,8 @@ h2{
 .song {
     display: flex;
     flex-flow: row nowrap;
-    height: 50px;
+    align-items: center;
+    height: 48px;
     width: fit-content;
 <<<<<<< HEAD
     margin: 15, 0;
