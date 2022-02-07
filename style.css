@@ -11,6 +11,7 @@ body {
     box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.05), 0px 4px 70px rgba(0, 0, 0, 0.13);
     border-radius: 10px;
     margin: auto;
+<<<<<<< HEAD
     padding: 32px 24px ;
 }
 
@@ -27,4 +28,10 @@ h1{
 h2{
 margin-bottom: 16px;
 
+=======
+}
+
+.T2{
+    color: #604E3A;
+>>>>>>> c8c702044caf026c2b97a26de157de64c706291e
 }
