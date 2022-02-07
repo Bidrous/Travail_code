@@ -53,6 +53,7 @@ h2{
     height: 50px;
     width: fit-content;
     margin: 15, 0;
+    padding: 0 0 31px 0;
 }
 
 .title {
