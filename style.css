@@ -52,12 +52,15 @@ h2{
 
 .note {
     width: 48px;
+    height: 48px;
 }
 
 .add {
     width: 20px;
+    height: 20px;
 }
 
 .more {
-    width: 18px;
+    width: 4px;
+    height: 18px;
 }
