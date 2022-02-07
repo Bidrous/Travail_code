@@ -1,7 +1,7 @@
 body {
-    background: #F4EBE1;
     font-family: 'Comforter Brush', cursive;
-font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    background: #F4EBE1;
 }
 
 .page {
@@ -23,7 +23,6 @@ font-family: 'Red Hat Display', sans-serif;
 
 h1{
     font-size: 12px;
-    font-family: arc;
     color: #604E3A;
 }
 
