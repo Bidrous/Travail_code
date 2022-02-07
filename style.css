@@ -68,6 +68,7 @@ h2{
 }
 
 h3 {
+    font-family: Archivo;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -78,6 +79,7 @@ h3 {
 }
 
 h4 {
+    font-family: Archivo;
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
