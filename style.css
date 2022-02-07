@@ -45,3 +45,21 @@ font-size: 37px;
     display: flex;
     flex-flow: column nowrap;
 }
+
+
+
+
+.note {
+    width: 48px;
+    height: 48px;
+}
+
+.add {
+    width: 20px;
+    height: 20px;
+}
+
+.more {
+    width: 4px;
+    height: 18px;
+}
