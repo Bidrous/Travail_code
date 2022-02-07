@@ -41,12 +41,30 @@ font-size: 37px;
     width: 296px;
 }
 
-.title{
+.title {
     display: flex;
     flex-flow: column nowrap;
+    width: fit-content;
+    height: fit-content;
 }
 
+h3 {
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    color: #604E3A;
+}
 
+h4 {
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+    color: #AA9379;
+}
 
 
 .note {
