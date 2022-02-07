@@ -52,8 +52,12 @@ h2{
     flex-flow: row nowrap;
     height: 50px;
     width: fit-content;
+<<<<<<< HEAD
     margin: 15, 0;
     padding: 0 0 31px 0;
+=======
+    margin: 15.5px, 0px;
+>>>>>>> 9e9c31417e02f6cd223728b6739c273630c1ac6a
 }
 
 .title {
@@ -66,22 +70,25 @@ h2{
 }
 
 h3 {
+    font-family: Archivo;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 17px;
     color: #604E3A;
     margin-bottom: 0px;
-    margin-top: 8px;
+    margin-top: 9px;
 }
 
 h4 {
+    font-family: Archivo;
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 13px;
     color: #AA9379;
     margin-top: 3px;
+    margin-bottom: 7px;
 }
 
 
