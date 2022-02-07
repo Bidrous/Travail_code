@@ -1,5 +1,7 @@
 body {
     background: #F4EBE1;
+    font-family: 'Comforter Brush', cursive;
+font-family: 'Red Hat Display', sans-serif;
 }
 
 .page {
@@ -28,10 +30,7 @@ h1{
 
 h2{
 margin-bottom: 16px;
-}
-
-
-h2{
+font-size: 37px;
     color: #604E3A;
 }
 
