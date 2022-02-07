@@ -21,6 +21,11 @@ body {
 
 }
 
+.plane {
+    width: 133px;
+    height: 129px;
+}
+
 h1{
    
     font-size: 12px;
