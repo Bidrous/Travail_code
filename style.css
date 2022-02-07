@@ -40,5 +40,20 @@ margin-bottom: 16px;
 
 .T1{
     color: #604E3A;
+<<<<<<< HEAD
 >>>>>>> af945aede09126c352683fd29008b441f6b637fc
+=======
+}
+
+.song {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 50px;
+    width: 296px;
+}
+
+.title{
+    display: flex;
+    flex-flow: column nowrap;
+>>>>>>> 4a48c73cb2e605df7e16495b4bde223ac2925b20
 }
