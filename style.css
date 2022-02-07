@@ -37,7 +37,8 @@ font-size: 37px;
     display: flex;
     flex-flow: row nowrap;
     height: 50px;
-    width: 296px;
+    width: fit-content;
+    margin: 15, 0;
 }
 
 .title {
