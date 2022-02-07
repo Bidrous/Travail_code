@@ -16,3 +16,15 @@ body {
 .h1{
     color: #604E3A;
 }
+
+.song {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 50px;
+    width: 296px;
+}
+
+.title{
+    display: flex;
+    flex-flow: column nowrap;
+}
