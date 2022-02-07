@@ -50,9 +50,10 @@ h2{
 .song {
     display: flex;
     flex-flow: row nowrap;
+    align-items: center;
     height: 50px;
     width: fit-content;
-    margin: 15, 0;
+    margin: 15px, 0px;
 }
 
 .title {
