@@ -11,42 +11,14 @@ body {
     box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.05), 0px 4px 70px rgba(0, 0, 0, 0.13);
     border-radius: 10px;
     margin: auto;
-    padding: 32px 24px ;
-}
-
-.random{
-    margin-left: 33px;
-
 }
 
 h1{
-    margin-bottom: 3px;
-    
+    font-size: 12px;
+    font-family: arc;
+    color: #604E3A;
 }
 
 h2{
-margin-bottom: 16px;
-}
-
-.T2{
     color: #604E3A;
-
-}
-
-.T1{
-    color: #604E3A;
-
-}
-
-.song {
-    display: flex;
-    flex-flow: row nowrap;
-    height: 50px;
-    width: 296px;
-}
-
-.title{
-    display: flex;
-    flex-flow: column nowrap;
-
 }
