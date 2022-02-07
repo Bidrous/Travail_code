@@ -46,3 +46,18 @@ h2{
     display: flex;
     flex-flow: column nowrap;
 }
+
+
+
+
+.note {
+    width: 48px;
+}
+
+.add {
+    width: 20px;
+}
+
+.more {
+    width: 18px;
+}
