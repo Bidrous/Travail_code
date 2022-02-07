@@ -51,9 +51,9 @@ h2{
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
-    height: 50px;
+    height: 48px;
     width: fit-content;
-    margin: 15px, 0px;
+    margin: 15.5px, 0px;
 }
 
 .title {
@@ -82,6 +82,7 @@ h4 {
     line-height: 13px;
     color: #AA9379;
     margin-top: 3px;
+    margin-bottom: 7px;
 }
 
 
