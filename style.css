@@ -29,7 +29,11 @@ body {
 }
 
 h1{
+<<<<<<< HEAD
     
+=======
+    font-family: Archivo;
+>>>>>>> b40cec412bacea07616f581a4750b9cb0c448bc6
     margin: 0;
     font-size: 12px;
     color: #604E3A;
@@ -40,7 +44,11 @@ h1{
 }
 
 h2{
+<<<<<<< HEAD
     
+=======
+    font-family: Archivo;
+>>>>>>> b40cec412bacea07616f581a4750b9cb0c448bc6
     margin:0 0  16px 0;
     font-style: normal;
     font-weight: 600;
@@ -55,6 +63,7 @@ h2{
     align-items: center;
     height: 48px;
     width: fit-content;
+<<<<<<< HEAD
     margin: 15.5px, 0px;
 
 
@@ -65,6 +74,9 @@ h2{
 
 
 
+=======
+    margin: 15px, 0px;
+>>>>>>> b40cec412bacea07616f581a4750b9cb0c448bc6
 }
 
 .title {
